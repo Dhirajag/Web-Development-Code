@@ -1,0 +1,21 @@
+table,th,td{
+    border: 2px solid black;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+    
+}
+tr{
+    height: 40px;
+}
+th{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+td{
+    text-align: right;
+    color: brown;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
